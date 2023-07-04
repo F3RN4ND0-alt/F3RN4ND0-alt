@@ -6,7 +6,7 @@ Junior Developer
 
 1 ano estudando e aprendendo sobre programação.\
 Estudante de Ciência da Computação na Uniasselvi, em Blumenau - SC.\
-Estudei FrontEnd pela MapleTrainingCenter e técnico em Desenvolvimento de Sistemas pelo Senai.
+Estudei FrontEnd pela MapleTrainingCenter e no CursoemVideo do GustavoGuanabara
 
 * 🌍 Eu moro em Blumenau
 * ✉️ Você pode contatar-me via [fernando.nando.fsk@gmail.com](mailto:fernando.nando.fsk@gmail.com)
@@ -39,7 +39,7 @@ Estudei FrontEnd pela MapleTrainingCenter e técnico em Desenvolvimento de Siste
         <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     </a>
 </p>
 
@@ -49,6 +49,9 @@ Estudei FrontEnd pela MapleTrainingCenter e técnico em Desenvolvimento de Siste
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     </a>
 </p>
+
+### Linguagens
+![F3RN4ND0-alt](https://github-readme-stats.vercel.app/api/top-langs/?username=F3RN4ND0-alt&langs_count=6&theme=dark&layout=compact)<br/>
 
 ### Badges
 
