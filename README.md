@@ -1,16 +1,16 @@
-Olá 👋 Eu sou Fernando Soethe Kessler
+Olá ✌️ Eu sou Fernando Soethe Kessler
 ==============================
 
-Junior Developer
+Developer Front End
 --------------------
 
 1 ano estudando e aprendendo sobre programação.\
 Estudante de Ciência da Computação na Uniasselvi, em Blumenau - SC.\
 Estudei FrontEnd pela MapleTrainingCenter e no CursoemVideo do GustavoGuanabara
 
-* 🌍 Eu moro em Blumenau
-* ✉️ Você pode contatar-me via [fernando.nando.fsk@gmail.com](mailto:fernando.nando.fsk@gmail.com)
-* 🧠 Estou estudando sobre Typescript
+* 🥵 Eu moro em Blumenau
+* ❤️ Meu contato [fernando.nando.fsk@gmail.com](mailto:fernando.nando.fsk@gmail.com)
+* 📚 Estou estudando sobre Typescript
 
 ### Conhecimento em:  
 
