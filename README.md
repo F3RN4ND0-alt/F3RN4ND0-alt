@@ -72,4 +72,4 @@ Estudei FrontEnd pela MapleTrainingCenter e no CursoemVideo do GustavoGuanabara
     </a>
 </p>
 
-![Snake animation](https://github.com/kauabamorim/kauabamorim/blob/output/github-contribution-grid-snake.svg)    
+![Snake animation]([https://github.com/kauabamorim/kauabamorim/blob/output/github-contribution-grid-snake.svg)  
