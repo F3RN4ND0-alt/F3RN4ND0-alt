@@ -1,77 +1,70 @@
-Hello ✌️ I am Fernando Soethe Kessler
-==============================
+<h2 align="center">About Me</h2>
 
-Studying and Learning about programming.\
-5th semester of Computer Science.\
-Back end and Front end Developer
-*  Im living em Blumenau
-*  For Connection [fernando.nando.fsk@gmail.com](mailto:fernando.nando.fsk@gmail.com)
-*  Study every day 
+###
 
---------------------
-    Front End
--------------------
-<p>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    </a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
-    </a>
-    <a href="https://www.w3schools.com/jquery/default.asp" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Jquery-24A0ED?style=for-the-badge&logo=Jquery&logoColor=000000" alt ="Jquery"/>
-    </a>
-</p>
+<br clear="both">
 
--------------------
-    Backend
--------------------
+<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWh5bzJoYXRmZGI1aDZ5ZGFscTJxZ2I0NjQxYTg1endpMjgyZWRoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NVBR6cLvUjV9C/giphy.gif"  />
 
-<p>
-    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    </a>
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    </a>
-</p>
+###
 
--------------------
-     Database
--------------------
+<p align="center">Student Science Computer <br>Front End Developer<br>Back End Developer</p>
 
-<p>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    </a>
-</p>
+###
 
----------------------
-     Social Media
---------------------
-<p>
-    <a href="https://www.github.com/F3RN4ND0-alt" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-    <a href="http://www.instagram.com/fernando_sk1/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/fernando-soethe-kessler-16a910232/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-</p>
+<h2 align="center">Techs</h2>
 
---------------------
-    Languages and Badges
---------------------
+###
 
-![F3RN4ND0-alt](https://github-readme-stats.vercel.app/api/top-langs/?username=F3RN4ND0-alt&langs_count=6&theme=dark&layout=compact)<br/>
-<a href="http://www.github.com/F3RN4ND0-alt">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=F3RN4ND0-alt&theme=dark&hide_border=true&border_radius=5" />
-</a>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+</div>
 
+###
 
+<h2 align="center">Stats</h2>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=F3RN4ND0-alt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=F3RN4ND0-alt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=F3RN4ND0-alt&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<h2 align="center">Social Media</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/fernando-soethe-kessler-16a910232/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/channels/336927335146192906" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/fernando_sk1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/F3RN4ND0-alt/count.svg?"  />
+</div>
+
+###
