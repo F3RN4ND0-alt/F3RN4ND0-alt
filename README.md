@@ -4,11 +4,10 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWh5bzJoYXRmZGI1aDZ5ZGFscTJxZ2I0NjQxYTg1endpMjgyZWRoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NVBR6cLvUjV9C/giphy.gif"  />
-
-###
-
-<p align="center">Student Science Computer <br>Front End Developer<br>Back End Developer</p>
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <p style="margin-right: 20px;">Student Science Computer <br>Front End Developer<br>Back End Developer</p>
+  <img height="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWh5bzJoYXRmZGI1aDZ5ZGFscTJxZ2I0NjQxYTg1endpMjgyZWRoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NVBR6cLvUjV9C/giphy.gif"  />
+</div>
 
 ###
 
