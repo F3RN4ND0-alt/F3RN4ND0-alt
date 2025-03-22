@@ -1,20 +1,16 @@
 Hello ✌️ I am Fernando Soethe Kessler
 ==============================
 
-Developer Front End
---------------------
-
 Studying and Learning about programming.\
-4th semester of Computer Science.\
-Estudei FrontEnd pela MapleTrainingCenter e no CursoemVideo do GustavoGuanabara
-
+5th semester of Computer Science.\
+Back end and Front end Developer
 *  Im living em Blumenau
-*  Meu contatc [fernando.nando.fsk@gmail.com](mailto:fernando.nando.fsk@gmail.com)
-*  Study every day
+*  For Connection [fernando.nando.fsk@gmail.com](mailto:fernando.nando.fsk@gmail.com)
+*  Study every day 
 
-### Conhecimento em:  
-
-#### Frontend:
+--------------------
+    Front End
+-------------------
 <p>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -30,7 +26,10 @@ Estudei FrontEnd pela MapleTrainingCenter e no CursoemVideo do GustavoGuanabara
     </a>
 </p>
 
-#### Backend:
+-------------------
+    Backend
+-------------------
+
 <p>
     <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -40,23 +39,19 @@ Estudei FrontEnd pela MapleTrainingCenter e no CursoemVideo do GustavoGuanabara
     </a>
 </p>
 
-#### Database:
+-------------------
+     Database
+-------------------
+
 <p>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     </a>
 </p>
 
-### Languages
-![F3RN4ND0-alt](https://github-readme-stats.vercel.app/api/top-langs/?username=F3RN4ND0-alt&langs_count=6&theme=dark&layout=compact)<br/>
-
-### Badges
-
-<a href="http://www.github.com/F3RN4ND0-alt">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=F3RN4ND0-alt&theme=dark&hide_border=true&border_radius=5" />
-</a>
-
-### Social Media
+---------------------
+     Social Media
+--------------------
 <p>
     <a href="https://www.github.com/F3RN4ND0-alt" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -68,5 +63,15 @@ Estudei FrontEnd pela MapleTrainingCenter e no CursoemVideo do GustavoGuanabara
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </p>
+
+--------------------
+    Languages and Badges
+--------------------
+
+![F3RN4ND0-alt](https://github-readme-stats.vercel.app/api/top-langs/?username=F3RN4ND0-alt&langs_count=6&theme=dark&layout=compact)<br/>
+<a href="http://www.github.com/F3RN4ND0-alt">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=F3RN4ND0-alt&theme=dark&hide_border=true&border_radius=5" />
+</a>
+
 
 
